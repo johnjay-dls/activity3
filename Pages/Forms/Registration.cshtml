@@ -1,0 +1,78 @@
+﻿@page
+@model MyFirstProject.Pages.Forms.RegistrationModel
+@{
+    ViewData["Title"] = "Registration";
+}
+<div class="container">
+    
+    <center><h1>Register</h1></center>
+        <form method="post">
+            <div asp-validation-summary="All" style="color:red"></div>
+            <div class=" form-group">
+                <label>Name</label>
+                <input class="form-control"asp-for="Person.Name"/>
+            </div>
+            <div class=" form-group">
+                <label>Lastname</label>
+                <input class="form-control"asp-for="Person.Lastname"/>
+            </div>
+            <div class=" form-group">
+                <label>Email</label>
+                <input class="form-control"asp-for="Person.Email"/>
+            </div>
+            <div class=" form-group">
+                <label>Age</label>
+                <input class="form-control"asp-for="Person.Age"/>
+            </div>
+            <div class=" form-group">
+                <label>Contactnumber</label>
+                <input class="form-control"asp-for="Person.Contactnumber"/>
+            </div>
+            <div class=" form-group">
+                <label>Password</label>
+                <input class="form-control"asp-for="Person.Password"/>
+            </div>
+            <div class=" form-group">
+                <label>Confirmpassword</label>
+                <input class="form-control"asp-for="Person.Confirmpassword"/>
+            </div>
+           
+            <center><button class="btn btn-primary" type="submit">Submit</button></center>
+        </form>
+    
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Person ID</th>
+            <th>Name</th>
+            <th>Lastname</th>
+            <th>Email</th>
+            <th>Age</th>
+            <th>Contactnumber</th>
+            <th>Password</th>
+            <th>Confirmpassword</th>
+            <th>Actions</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model.Persons)
+        {
+            <tr>
+                <td>@person.PersonId</td>
+                <td>@person.Name</td>
+                <td>@person.Lastname</td>
+                <td>@person.Email</td>
+                <td>@person.Age</td>
+                <td>@person.Contactnumber</td>
+                <td>@person.Password</td>
+                <td>@person.Confirmpassword</td>
+                <td><a asp-page="Edit" asp-route-id="@person.PersonId">Edit</a> | <a asp-page="Registration" asp-page-handler="Delete" asp-route-id="@person.PersonId">Delete</a> </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

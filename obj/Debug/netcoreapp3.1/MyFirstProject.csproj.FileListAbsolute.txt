@@ -1,0 +1,293 @@
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.exe
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.deps.json
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.json
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.Views.dll
+C:\Users\acer\source\repos\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfo.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.Manifest.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.xml
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyFirstProject.styles.css
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.input.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.output.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorCoreGenerate.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.genruntimeconfig.cache
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CopyComplete
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\News.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Forums.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Accounts.cshtml.g.cs
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\AboutUs.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\appsettings.json
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.exe
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.deps.json
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.json
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.dev.json
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.dll
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.pdb
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.Views.dll
+E:\New folder\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csprojAssemblyReference.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfoInputs.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfo.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CoreCompileInputs.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.Manifest.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.xml
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyFirstProject.styles.css
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.input.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.output.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorCoreGenerate.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\AboutUs.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Accounts.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Forums.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\News.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cs
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.dll
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.pdb
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.genruntimeconfig.cache
+E:\New folder\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CopyComplete
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.exe
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.deps.json
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.json
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.dev.json
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.dll
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.pdb
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.Views.dll
+D:\MyFirstProgram\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csprojAssemblyReference.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfoInputs.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfo.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CoreCompileInputs.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.MvcApplicationPartsAssemblyInfo.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.Manifest.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.xml
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyFirstProject.styles.css
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.input.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.output.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorCoreGenerate.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\AboutUs.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Accounts.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Forums.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\News.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cs
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.dll
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.pdb
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.genruntimeconfig.cache
+D:\MyFirstProgram\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CopyComplete
+C:\Users\acer\source\repos\MyFirstProject\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\Registration.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\MyFirstProject.exe
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\MyFirstProject.deps.json
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.json
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.dev.json
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\MyFirstProject.Views.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\acer\source\repos\MyASPact\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfo.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.Manifest.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.xml
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyFirstProject.styles.css
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.input.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.output.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.RazorCoreGenerate.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\AboutUs.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\Accounts.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\Registration.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\Forums.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\News.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cs
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CopyComplete
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\acer\source\repos\MyASPact\obj\Debug\netcoreapp3.1\MyFirstProject.genruntimeconfig.cache
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\MyFirstProject.exe
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\MyFirstProject.deps.json
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.json
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.dev.json
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\MyFirstProject.Views.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\acer\source\repos\Activity3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfo.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.RazorAssemblyInfo.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.Manifest.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstProject.StaticWebAssets.xml
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\scopedcss\bundle\MyFirstProject.styles.css
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.input.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.TagHelpers.output.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.RazorCoreGenerate.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\AboutUs.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Accounts.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\Registration.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Forums.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\News.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.RazorTargetAssemblyInfo.cs
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.Views.pdb
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CopyComplete
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\MyFirstProject.genruntimeconfig.cache
+C:\Users\acer\source\repos\Activity3\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\Edit.cshtml.g.cs
